@@ -1,0 +1,2 @@
+Molecule ChEMBL ID,Smiles,IC50 EGFR,IC50 ESR1,IC50 SRC,Standard Value
+CHEMBL44,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,1000.0,580.0,75000.0,24800.0
